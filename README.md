@@ -12,3 +12,6 @@ index1 must be less than index2. Note that num[index1] may be larger than num[in
 * [Linked List Cycle ](http://oj.leetcode.com/problems/linked-list-cycle/)  
 I only come up with a O(n) space solution which would accept in . I learn "fast and slow runner" method from forum which only cost O(1) space.
 
+* [Remove Duplicates from Sorted List](http://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)  
+use std::set to accumulate values.
+
