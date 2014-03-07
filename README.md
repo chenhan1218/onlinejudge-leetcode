@@ -15,3 +15,5 @@ I only come up with a O(n) space solution which would accept in . I learn "fast 
 * [Remove Duplicates from Sorted List](http://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)  
 use std::set to accumulate values.
 
+* [Merge Two Sorted Lists](http://oj.leetcode.com/problems/merge-two-sorted-lists/)  
+straight forward solution.
