@@ -17,3 +17,6 @@ use std::set to accumulate values.
 
 * [Merge Two Sorted Lists](http://oj.leetcode.com/problems/merge-two-sorted-lists/)  
 straight forward solution.
+
+* [Sort List](http://oj.leetcode.com/problems/sort-list/)
+sort linked list with merge sort with O(n) space. Careful not TLE when implement with python.
