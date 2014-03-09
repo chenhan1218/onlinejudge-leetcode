@@ -20,3 +20,6 @@ straight forward solution.
 
 * [Sort List](http://oj.leetcode.com/problems/sort-list/)
 sort linked list with merge sort with O(n) space. Careful not TLE when implement with python.
+
+* [Single Number](http://oj.leetcode.com/problems/single-number/)
+Interesting problem. Solve with xor.
