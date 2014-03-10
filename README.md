@@ -26,3 +26,6 @@ Note:
 
 * [Reverse Linked List II](http://oj.leetcode.com/problems/reverse-linked-list-ii/)  
 2014-03-10 linked list practice.
+
+* [Balanced Binary Tree](http://oj.leetcode.com/problems/balanced-binary-tree/)  
+2014-03-10 check if balanced binary tree
