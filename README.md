@@ -32,3 +32,6 @@ Note:
 
 * [Reverse Words in a String](http://oj.leetcode.com/problems/reverse-words-in-a-string/)  
 2014-03-11 string reverse.
+
+* [3sum](http://oj.leetcode.com/problems/3sum/)  
+2014-03-12 dynamic programming
