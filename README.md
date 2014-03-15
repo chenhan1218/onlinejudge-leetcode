@@ -19,7 +19,7 @@ Note:
 2014-03-07 straight forward solution.
 
 * [Sort List](http://oj.leetcode.com/problems/sort-list/)  
-2014-03-10 sort linked list with merge sort with O(n) space. Careful not TLE when implement with python.
+2014-03-10 sort linked list with merge sort with O(1) space. Careful not TLE when implement with python.
 
 * [Single Number](http://oj.leetcode.com/problems/single-number/)  
 2014-03-10 Interesting problem. Solve with xor.
