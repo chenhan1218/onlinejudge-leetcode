@@ -38,3 +38,6 @@ Note:
 
 * [Binary Tree Preorder Traversal](http://oj.leetcode.com/problems/binary-tree-preorder-traversal/)  
 2014-03-16 use stack to traverse tree iteratively
+
+* [Validate Binary Search Tree](http://oj.leetcode.com/problems/validate-binary-search-tree/)  
+2014-03-17 careful about boundary when implement with python
