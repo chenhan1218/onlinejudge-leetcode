@@ -44,3 +44,6 @@ Note:
 
 * [Binary Tree Inorder Traversal](http://oj.leetcode.com/problems/binary-tree-inorder-traversal/)  
 2014-03-17 use stack to traverse tree iteratively
+
+* [Binary Tree Postorder Traversal](http://oj.leetcode.com/problems/binary-tree-postorder-traversal/)  
+2014-03-17 refresh algorithm from wikipedia page
