@@ -47,3 +47,6 @@ Note:
 
 * [Binary Tree Postorder Traversal](http://oj.leetcode.com/problems/binary-tree-postorder-traversal/)  
 2014-03-17 refresh algorithm from wikipedia page
+
+* [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)  
+2015-06-14 Recent popular question. Straightforward solution.
