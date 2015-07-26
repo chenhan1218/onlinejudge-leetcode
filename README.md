@@ -56,3 +56,12 @@ Note:
 
 * [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)  
 2015-07-26 Intersection of Two Linked Lists
+
+* [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)  
+2015-07-26 StraightForward but strange problem.
+
+* [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  
+2015-07-26 Easy.
+
+* [Same Tree](https://leetcode.com/problems/same-tree/)  
+2015-07-26 Easy.
