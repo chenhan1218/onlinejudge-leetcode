@@ -69,5 +69,8 @@ Note:
 * [Power of Two](https://leetcode.com/problems/power-of-two/)  
 2015-07-26 Binary operation trick.
 
-* [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+* [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)  
+2015-07-26 Easy.
+
+* [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)  
 2015-07-26 Easy.
