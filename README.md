@@ -51,5 +51,5 @@ Note:
 * [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)  
 2015-06-14 Recent popular question. Straightforward solution.
 
-* [Tenth Line](https://leetcode.com/problems/tenth-line/)
+* [Tenth Line](https://leetcode.com/problems/tenth-line/)  
 2015-07-26 bash practice
