@@ -74,3 +74,6 @@ Note:
 
 * [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)  
 2015-07-26 Easy.
+
+* [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  
+2015-07-26 Sort. And loop.
