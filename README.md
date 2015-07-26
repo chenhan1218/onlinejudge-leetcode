@@ -65,3 +65,9 @@ Note:
 
 * [Same Tree](https://leetcode.com/problems/same-tree/)  
 2015-07-26 Easy.
+
+* [Power of Two](https://leetcode.com/problems/power-of-two/)  
+2015-07-26 Binary operation trick.
+
+* [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+2015-07-26 Easy.
