@@ -77,3 +77,9 @@ Note:
 
 * [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  
 2015-07-26 Sort. And loop.
+
+* [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  
+2015-07-27 Tree traversal.
+
+* [N-Queens II](https://leetcode.com/problems/n-queens-ii/)  
+2015-07-27 DFS
