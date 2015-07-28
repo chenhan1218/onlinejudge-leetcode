@@ -83,3 +83,15 @@ Note:
 
 * [N-Queens II](https://leetcode.com/problems/n-queens-ii/)  
 2015-07-27 DFS
+
+* [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)  
+2015-07-28 Easy.
+
+* [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)  
+2015-07-28 Easy.
+
+* [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)  
+2015-07-28 O(n+m) instead of O(n*m)
+
+* [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)  
+2015-07-28 Easy.
