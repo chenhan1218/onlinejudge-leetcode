@@ -95,3 +95,6 @@ Note:
 
 * [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)  
 2015-07-28 Easy.
+
+* [Majority Element](https://leetcode.com/problems/majority-element/)  
+2015-07-28 Count occurance.
