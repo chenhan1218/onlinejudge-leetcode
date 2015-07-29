@@ -98,3 +98,9 @@ Note:
 
 * [Majority Element](https://leetcode.com/problems/majority-element/)  
 2015-07-28 Count occurance.
+
+* [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)  
+2015-07-29 Easy.
+
+* [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)  
+2015-07-29 Easy.
