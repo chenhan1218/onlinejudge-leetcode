@@ -104,3 +104,6 @@ Note:
 
 * [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)  
 2015-07-29 Easy.
+
+* [Add Digits](https://leetcode.com/problems/add-digits/)  
+2015-10-02 Easy.
