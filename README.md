@@ -107,3 +107,48 @@ Note:
 
 * [Add Digits](https://leetcode.com/problems/add-digits/)  
 2015-10-02 Easy.
+
+* [Missing Number](https://leetcode.com/problems/missing-number/)  
+2015-10-19 Easy.
+
+* [Search Insert Position](https://leetcode.com/problems/search-insert-position/)  
+2015-10-19 Binary search.
+
+* [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  
+2015-10-19 Algorithm on textbook.
+
+* [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  
+2015-10-19 Easy DP.
+
+* [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)  
+2015-10-19 Recursive.
+
+* [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  
+2015-10-19 Easy.
+
+* [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)  
+2015-10-19 Easy.
+
+* [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  
+2015-10-19 Easy.
+
+* [Unique Paths](https://leetcode.com/problems/unique-paths/)  
+2015-10-19 Easy.
+
+* [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
+2015-10-19 Easy.
+
+* [Ugly Number](https://leetcode.com/problems/ugly-number/)  
+2015-10-19 Easy.
+
+* [Move Zeroes](https://leetcode.com/problems/move-zeroes/)  
+2015-10-19 Easy.
+
+* [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)  
+2015-10-20 Recursive.
+
+* [Happy Number](https://leetcode.com/problems/happy-number/)  
+2015-10-20 Easy.
+
+* [Sort Colors](https://leetcode.com/problems/sort-colors/)  
+2015-10-20 Easy.
