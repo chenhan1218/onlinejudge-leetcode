@@ -152,3 +152,9 @@ Note:
 
 * [Sort Colors](https://leetcode.com/problems/sort-colors/)  
 2015-10-20 Easy.
+
+* [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  
+2015-10-20
+
+* [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  
+2015-10-20 DP in textbook.
